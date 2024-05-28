@@ -1,4 +1,6 @@
 # Glide adapter for Laravel
+This is a fork of League\Glide.
+The purpose of this fork is to update the package to support Laravel 10
 
 [![Author](http://img.shields.io/badge/author-@reinink-blue.svg?style=flat-square)](https://twitter.com/reinink)
 [![Latest Version](https://img.shields.io/github/release/thephpleague/glide-laravel.svg?style=flat-square)](https://github.com/thephpleague/glide-laravel/releases)
@@ -7,10 +9,11 @@
 [![HHVM Status](https://img.shields.io/hhvm/league/glide-laravel.svg?style=flat-square)](http://hhvm.h4cc.de/package/league/glide-laravel)
 [![Total Downloads](https://img.shields.io/packagist/dt/league/glide-laravel.svg?style=flat-square)](https://packagist.org/packages/league/glide-laravel)
 
+
 ## Installation
 
 ```bash
-$ composer require league/glide-laravel
+$ composer require gocustodia/glide-laravel
 ```
 
 ## Documentation
